@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Augment</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_tab_title">SEARCH TERMS</string>
+    <string name="results_tab_title">RESULTS</string>
+    <string name="default_result_error_text">Nothing has been loaded.</string>
+</resources>
